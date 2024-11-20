@@ -10,12 +10,14 @@ User-friendly interface developed with Streamlit.
 Powered by machine learning models trained on IPL data.
 Files in the Repository
 1. app2.py
+
 This is the main Streamlit application script. It includes:
 
 The user interface with dropdowns, input fields, and buttons.
 Real-time probability calculations based on match data.
 Integration with a pre-trained machine learning model (pipe.pkl) for predictions.
 2. File.ipynb
+
 Contains the exploratory data analysis (EDA) and preprocessing steps that were performed to prepare the dataset for model training.
 
 3. WinPredictor.ipynb
@@ -28,7 +30,7 @@ Requirements
 To run the application, ensure the following dependencies are installed:
 
 bash
-Copy code
+
 streamlit
 pandas
 pickle
