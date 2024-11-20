@@ -34,13 +34,17 @@ bash
 streamlit
 pandas
 pickle
+
 How to Run
 Clone the repository:
 
 bash
+
 Copy code
+
 git clone https://github.com/your-username/ipl-win-predictor.git
 cd ipl-win-predictor
+
 Install the required libraries:
 
 bash
